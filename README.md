@@ -7,6 +7,10 @@ detect contigious strings of normal words.
 Doesn't work perfectly but should be good enough to be useful.
 
 Print text in the terminal that is colored where it is normal text
+
+(This text coloring works on Mac and probably works on Linux. Might not work on Windows 
+or Jupyter notebooks. The parts below will work though)
+
 ```
 from wordy import wordy
 text = wordy.get_test_data(num=2)
