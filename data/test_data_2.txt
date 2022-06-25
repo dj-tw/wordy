@@ -1,0 +1,46 @@
+.jkrisW{color:#0C0C0C;font-family:CNN,"Helvetica Neue",Helvetica,
+Arial,Utkal,sans-serif;-webkit-font-smoothing:antialiased;cursor:pointer;-webkit-text-decoration:underline #E6E6E6;text-decoration:
+underline #E6E6E6;-webkit-transition:color
+0.4s ease,text-decoration 0.4 ease;transition:color 0.4s ease,text-decoration 0.4 ease;color:#E6E6E6;fill:currentColor;color:
+currentColor;height:24px;display:block;} .jkrisW:hover,.jkrisW:focus{color:#8C8C8C;-webkit-text-decoration:none;text-decoration:none;}
+.jkrisW:hover,.jkrisW:focus{color:#FEFEFE;} .jkrisW:visited,.jkrisW:active{fill:currentColor;color:currentColor;}
+.jkrisW:hover,.jkrisW:focus{color:#FEFEFE;fill:#FEFEFE;} @media screen and (min-width:1024px){.jkrisW{display:block;}}
+/* sc-component-id: sc-jDwBTQ */
+
+How the 'boyfriend loophole' is stalling Senate gun safety talks
+
+Ex-Trump aide says Trump admitted privately that he lost the election
+CASPER, WY - MAY 28: Former President Donald Trump speaks on May 28, 2022 in Casper, Wyoming. The rally is being held to
+support Harriet Hageman, Rep. Liz Cheneys primary challenger
+in Wyoming. (Photo by Chet Strange/Getty Images)
+GOP lawmaker who voted to impeach Trump says the former President will be hard to stop
+
+Man who filmed Proud Boys on Jan. 6 says whole crowd could have potentially murdered Pence
+Dwight Henninger Ted Cruz Split
+Police chief responds to Ted Cruz's gun argumen
+
+Pollster says Republicans are moving away from Trump after poll in key state
+
+Hear Biden's message to gas companies after announcing gas tax holiday
+Stephanie Grisham Donald Trump
+Ex-Trump aide: I wouldn't be surprised if Trump is 'seething' over GOP's silence
+
+How the 'boyfriend loophole' is stalling Senate gun safety talks
+
+  if (!window.COMPONENTS) window.COMPONENTS = [];
+                        window.COMPONENTS.push({"id":1,"component":"./elements/ui/header-wrapper/header-wrapper.component.jsx",
+                        "props":{"edition":"domestic","editions":[{"name":"domestic","label":"US","host":"//us.cnn.com"},
+                        {"name":"international","label":"International","host":"//edition.cnn.com"},{"name":"arabic","label":
+                        "Arabic","host":"//arabic.cnn.com"},{"name":"espanol","label":"Español","host":"//cnnespanol.cnn.com"}],"enableEditionPicker"
+                                       </script>
+Ex-Trump aide says Trump admitted privately that he lost the electionus
+CASPER, WY - MAY 28: Former President Donald Trump speaks on May 28, 2022 in Casper, Wyoming. The rally is being held to
+
+support Harriet Hageman, Rep. Liz Cheneys primary challenger in Wyoming. (Photo by Chet Strange/Getty Images)
+GOP lawmaker who voted to impeach Trump says the former President will be hard to stop
+.dpTTAk{display:-webkit-box;display:-webkit-flex;display:
+Google-arkive, 27827
+162626, form, 148756, last-bite, 88
+Man who filmed Proud Boys on Jan. 6 says whole crowd could have potentially murdered Pence
+Dwight Henninger Ted Cruz Split
+Police chief responds to Ted Cruz's gun argument
